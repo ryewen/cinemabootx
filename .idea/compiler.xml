@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cinemaboot-api" />
+        <module name="cinemaboot-field" />
+        <module name="cinemaboot-gateway" />
+        <module name="cinemaboot-movie" />
+        <module name="cinemaboot-order" />
+        <module name="cinemaboot-user" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cinemaboot-field" options="" />
+      <module name="cinemaboot-gateway" options="" />
+      <module name="cinemaboot-movie" options="" />
+      <module name="cinemaboot-order" options="" />
+      <module name="cinemaboot-user" options="" />
+    </option>
+  </component>
+</project>

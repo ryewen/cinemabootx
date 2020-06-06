@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cinemaboot-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cinemaboot-field" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cinemaboot-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cinemaboot-movie" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cinemaboot-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cinemaboot-user" charset="UTF-8" />
+  </component>
+</project>
