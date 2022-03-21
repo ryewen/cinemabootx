@@ -44,7 +44,7 @@
         <springboot.version>2.0.8.RELEASE</springboot.version>
         <lombok.version>1.16.22</lombok.version>
         <spring.version>5.0.8.RELEASE</spring.version>
-        <dubbo.version>2.6.7</dubbo.version>
+        <dubbo.version>2.6.9</dubbo.version>
         <seata.version>1.2.0</seata.version>
     </properties>
 
